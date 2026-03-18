@@ -24,6 +24,10 @@ HTML (Structure)
 
 CSS (Styling)
 
+<p align="center">
+  <img src="Black Jack.png" width="500"/>
+</p>
+
 🎮 How to Play
 
 Click Start Game to begin.
